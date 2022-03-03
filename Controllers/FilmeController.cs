@@ -2,6 +2,7 @@
 using FilmesAPI.Models;
 using System.Collections.Generic;
 using System;
+using System.Linq;
 
 namespace FilmesAPI.Controllers
 {
@@ -23,6 +24,12 @@ namespace FilmesAPI.Controllers
         public IEnumerable<Filme> RecuperarFilmes()
         {
             return filmes;
+        }
+
+        [HttpGet("{id}")]
+        public Filme RecuperaFilmesPorId(int id)
+        {
+            return filmes.FirstOrDefault(filme => filme.Id == id);
         }
     }
 }
