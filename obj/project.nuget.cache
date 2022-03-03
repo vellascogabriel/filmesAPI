@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "akMtBHukyngyzhWIHU1BxFxlhQ/4JFBGjxfp7Er+e6z4eEeVASWEfofqXY++oeApzqAGetmFrZMllOe3tgGbLA==",
+  "dgSpecHash": "pgdV255X6ML6gRewAQ/s7ACOd1Ij2GDwxcvka2/ykvFLqy9+R9uKNWXDJXzAT7svimuUh6yGnbPxWue4Pp7eQA==",
   "success": true,
   "projectFilePath": "C:\\Users\\gabriel.vellasco\\source\\ASPNET\\rest API\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\gabriel.vellasco\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\gabriel.vellasco\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\gabriel.vellasco\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\gabriel.vellasco\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
     "C:\\Users\\gabriel.vellasco\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
@@ -43,6 +45,7 @@
     "C:\\Users\\gabriel.vellasco\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
     "C:\\Users\\gabriel.vellasco\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
     "C:\\Users\\gabriel.vellasco\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\gabriel.vellasco\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\gabriel.vellasco\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Users\\gabriel.vellasco\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
     "C:\\Users\\gabriel.vellasco\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512",
